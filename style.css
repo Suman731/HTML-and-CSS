@@ -1,0 +1,469 @@
+body{
+
+   background: #b88dbd94;
+}
+
+#a{
+   width: 100%;
+   height: 80px;
+   background-image: url(hd/108366-dark-curve.jpg);
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+#aa{
+   width: 25%;
+   height: 100%;
+   float: left;
+   background-image: url(hd/Screenshot_66.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+#aaa{
+   float: left;
+   font-size: 60px;
+   font-style: bold;
+   font-family: 'Akaya Kanadaka', cursive;
+   text-align: center;
+   padding-top: 7px;
+   padding-left: px;
+   color: #62e6fb;
+   width: 55%;
+   height: 88%;
+}
+
+.menu{
+  width: 100%;
+  height: 50px;
+  background-color:#c4a1c9;
+}
+
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+  
+ }
+ 
+ li {
+   display: inline;
+   padding: 14px 16px 10px ;
+ }
+
+ li a {
+   color:#e4ff00;
+   text-align: center;
+   text-decoration: none;
+   font-size: 30px;
+   background-color:#c4a1c9;
+   margin-left: 40px;
+   margin-top: 10px;
+   
+ }
+
+ li a:hover{
+  color:#0805b1;
+ }
+
+
+#b{
+   background-color: #b88dbd94;
+   width: 100%;
+   height: 400px;
+   padding-top: 50px;
+   padding-left: 0px;
+ }
+
+  #bb{
+   width: 20%;
+   height: 300px;
+   background-image: url("a/pexels-skyler-ewing-4681769.jpg");
+   float: left;
+   margin-left: 70px;
+   background-size: 100%;
+   background-repeat: no-repeat;
+    border-style: inset;
+  border-color: coral;
+  border-width: 3px;
+  box-shadow: 5px 10px 18px red;
+  font-size: 25px;
+  color: red;
+  font-family: cursive;
+  }
+
+  #bb1{
+   text-align: center;
+   padding-top: 30px;
+   width: 100%;
+   height: 40%;
+   background-color: #c8d4e6a3;
+   color: #002475;
+   font-size: 30px;
+   font-style: bold;
+   font-family: 'Pacifico', cursive;
+  }
+
+ #bb1:hover{
+ background-color: #c8d4e600;
+ color:#0f00f3 ;
+  opacity: 0.6;
+  transition: 2s;
+  }
+
+   #bbb{
+   width: 20%;
+   height: 300px;
+   
+   float: left;
+   margin-left: 40px;
+   margin-top: 40px;
+   background-image: url("a/svyatoslav-romanov-BrEAp01_m5w-unsplash.jpg");
+  background-size: 100%;
+   background-repeat: no-repeat;
+    border-style: inset;
+  border-color: coral;
+  border-width: 3px;
+  box-shadow: 5px 10px 18px #070ca9;
+  font-size: 25px;
+  color: White;
+  font-family: cursive;
+  }
+
+  #bbb1{
+   text-align: center;
+   padding-top: 30px;
+   width: 100%;
+   height: 40%;
+   background-color: #c8d4e6a3;
+   color: #002475;
+   font-size: 30px;
+   font-style: bold;
+   font-family: 'Rosario', sans-serif;
+  }
+
+ #bbb1:hover{
+ background-color: #c8d4e600;
+ color:#0f00f3 ;
+  opacity: 0.6;
+  transition: 2s;
+  }
+
+ #bbbb{
+   width: 20%;
+   height: 300px;
+   
+  float: left;
+  margin-left: 40px;
+  background-image: url("a/toa-heftiba-O3ymvT7Wf9U-unsplash.jpg");
+  background-size: 100%;
+   background-repeat: no-repeat;
+    border-style: inset;
+  border-color: coral;
+  border-width: 3px;
+  box-shadow: 5px 10px 18px red;
+  font-size: 25px;
+  color: red;
+  font-family: cursive;
+  }
+
+#bbbb1{
+   text-align: center;
+   padding-top: 30px;
+   width: 100%;
+   height: 40%;
+   background-color: #c8d4e6a3;
+   color: #002475;
+   font-size: 30px;
+   font-style: bold;
+   font-family: 'Pacifico', cursive;
+  }
+
+ #bbbb1:hover{
+ background-color: #c8d4e600;
+ color:#0f00f3 ;
+  opacity: 0.6;
+  transition: 2s;
+  }
+
+ #bbbbb{
+   width: 20%;
+   height: 300px;
+   
+ float: left;
+ margin-left: 40px;
+ margin-top: 40px;
+ background-image: url("a/pexels-sharon-mccutcheon-1215831.jpg");
+ background-size: 100%;
+   background-repeat: no-repeat;
+    border-style: inset;
+  border-color: coral;
+  border-width: 3px;
+  box-shadow: 5px 10px 18px #070ca9;
+  font-size: 25px;
+  color: white;
+  font-family: cursive;
+  }
+
+  #bbbbb1{
+   text-align: center;
+   padding-top: 30px;
+   width: 100%;
+   height: 40%;
+   background-color: #c8d4e6a3;
+   color: #002475;
+   font-size: 30px;
+   font-style: bold;
+   font-family: 'Rosario', sans-serif;
+  }
+
+ #bbbbb1:hover{
+ background-color: #c8d4e600;
+ color:#0f00f3 ;
+  opacity: 0.6;
+  transition: 2s;
+  }
+
+#c{
+   background-color:#b88dbd94;
+   width: 100%;
+   height: 300px;
+   display: block;
+  }
+
+#cc{
+   background-image: url(a/b/alex.jpg);
+   width: 25%;
+   height: 200px;
+   margin-top: 60px;
+   margin-left: 80px;
+   float: left;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 10px 18px #000000;
+  font-size: 30px;
+  font-family:15px Arial black;
+}
+
+#cc1{
+   width: 1px;
+   height: 130px;
+  background: #0097afba;
+  transition: width 2s;
+  text-align: center;
+  color: #051156;
+  padding-top: 70px;
+
+}
+
+#cc1:hover {
+  width: 100%;
+  height: 130px;
+
+}
+
+#ccc{
+   background-image: url(a/b/cute.jpg);
+  width: 25%;
+   height: 200px;
+   margin-top: 60px;
+   margin-left: 80px;
+   float: left;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 10px 18px #000000;
+  font-size: 30px;
+  font-family:15px Arial black;
+
+}
+
+#ccc1{
+   width: 1px;
+   height: 130px;
+  background: #e6ff17b8;
+  transition: width 2s;
+  text-align: center;
+  color: #b27ab8;
+  padding-top: 70px;
+
+}
+
+#ccc1:hover {
+  width: 100%;
+  height: 130px;
+
+}
+
+#cccc{
+   background-image: url(a/b/lolk.jpg);
+   width: 25%;
+   height: 200px;
+   margin-top: 60px;
+   margin-left: 80px;
+   float: left;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 10px 18px #000000;
+  font-size: 30px;
+  font-family:15px Arial black;
+
+}
+
+#cccc1{
+   width: 1px;
+   height: 130px;
+  background: #43034abd;
+  transition: width 2s;
+  text-align: center;
+  color: #051156;
+  padding-top: 70px;
+  }
+
+#cccc1:hover {
+  width: 100%;
+  height: 130px;
+
+}
+
+#d{
+   width: 100%;
+   height: 300px;
+   background-color:#b88dbd94;
+}
+
+#dd{
+   width: 50%;
+   height: 100%;
+   background-color: #e782f300;
+   float: left;
+}
+
+#dd1{
+   width: 30%;
+   height: 90%;
+   background-color:  #62e6fb;
+   margin-top: 15px;
+   margin-left: 20px;
+   float: left;
+   box-shadow: 5px 10px 18px #000000;
+   text-align: center;
+   font-size: 25px;
+   font-family: 'Secular One', sans-serif;
+
+}
+
+#dd2{
+   width: 30%;
+   height: 90%;
+   background-color: #62e6fb;
+   margin-top: 15px;
+   margin-left: 20px;
+   float: left;
+   box-shadow: 5px 10px 18px #000000;
+   text-align: center;
+   font-size: 25px;
+   font-family: 'Secular One', sans-serif;
+}
+
+#dd3{
+   width: 30%;
+   height: 90%;
+   background-color: #62e6fb;
+   margin-top: 15px;
+   margin-left: 20px;
+   float: left;
+   box-shadow: 5px 10px 18px #000000;
+   text-align: center;
+   font-size: 25px;
+   font-family: 'Secular One', sans-serif;
+}
+
+#ddd{
+   width: 40%;
+   height: 90%;
+   background-color: #eac7c700;
+   float: right;
+   box-shadow: 5px 10px 18px #000000;
+   margin-right: 20px;
+   margin-top: 15px;
+}
+
+#ddd1{
+   width: 40%;
+   height: 100%;
+   background-image: url(hd/AirBrush_20210220174105.jpg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: right;
+  box-shadow: 5px 10px 18px #000000;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+#ddd2{
+     width: 52%;
+   height: 85%;
+   background-color: #634f4f85;
+  float: right;
+  box-shadow: 5px 10px 20px #f5edffc2 inset;
+  text-align: center;
+  font-size: 18px;
+ padding: 20px;
+ color: #ffccf2b3;
+ font-style: italic;,
+  }
+
+  #ddd3{
+     font-size:22px;
+     color: #c1d426a8;
+     font-style: bold,
+  }
+
+  #e{
+   width: 100%;
+   height: 100px;
+   background-color: #b88dbd94; 
+  }
+
+
+  #dd11{
+     width: 80%;
+     height: 45%;
+     background-image: url(pexels-karolina-grabowska-44k67687.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin-left: 20px;
+     margin-top: 10px;
+     border-radius: 90%;
+
+
+  }
+
+  #dd22{
+   width: 80%;
+   height: 45%;
+   background-image: url(pexels-dinielle-de-veyra-4195341.jpg);
+   background-repeat: no-repeat;
+     background-size: cover;
+     margin-left: 20px;
+     margin-top: 10px;
+     border-radius: 90%;
+
+
+}
+
+#dd33{
+   width: 80%;
+   height: 45%;
+   background-image: url(pexels-andrea-piacquadiov-3781731.jpg);
+   background-repeat: no-repeat;
+     background-size: cover;
+     margin-left: 20px;
+     margin-top: 10px;
+     border-radius: 90%;
+
+
+}
